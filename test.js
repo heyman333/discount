@@ -1,1 +1,2 @@
-alert("지그재그");
+window.alert("지그재그");
+console.log("hello");
